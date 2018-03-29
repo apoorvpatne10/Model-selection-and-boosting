@@ -1,6 +1,6 @@
 # Model-selection-and-boosting
 
-I'll be performing 2 such techniques :
+I'll be performing 3 such techniques :
 
 1. K-fold Cross Validation - 
 
